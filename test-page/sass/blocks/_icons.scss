@@ -1,0 +1,64 @@
+.icon-superman {
+    width: 560px;
+    height: 560px;
+
+    @media (max-width: 1700px) {
+        width: 435px;
+        height: 435px;
+    }
+    @media (max-width: 1100px) {
+        width: 410px;
+        height: 410px;
+    }
+    @media (max-width: 700px) {
+        width: 245px;
+        height: 245px;
+    }
+}
+
+.icon-tablet {
+    width: 456px;
+    height: 459px;
+
+    @media (max-width: 1700px) {
+        width: 352px;
+        height: 362px;
+    }
+    @media (max-width: 1100px) {
+        width: 270px;
+        height: 277px;
+    }
+
+    @media (max-width: 700px) {
+        margin: 0 auto;
+    }
+
+}
+
+.icon-notebook {
+    width: 474px;
+    height: 474px;
+
+    @media (max-width: 1700px) {
+        width: 358px;
+        height: 358px;
+    }
+    @media (max-width: 1100px) {
+        width: 270px;
+        height: 270px;
+    }
+
+    @media (max-width: 700px) {
+        margin: 0 auto;
+    }
+}
+
+.icon-card {
+    width: 120px;
+    height: 120px;
+
+    @media (max-width: 1700px) {
+        width: 110px;
+        height: 110px;
+    }
+}
