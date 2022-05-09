@@ -1,0 +1,16 @@
+// Base
+@import "./base/vars";
+@import "./base/reset";
+@import "./base/base";
+
+// Section
+@import "./section/header";
+@import "./section/main";
+@import "./section/section-teaching";
+@import "./section/footer";
+
+
+// Blocks
+@import "./blocks/menu";
+@import "./blocks/icons";
+@import "./blocks/card";

@@ -1,0 +1,40 @@
+.breadcrumb-menu {
+    margin-bottom: 15px;
+
+    @media (max-width: 700px) {
+        margin-bottom: 44px;     
+    }
+}
+
+.breadcrumb-list {
+    display: flex;
+    font-size: 16px;
+    line-height: 1.18;
+    
+    li {
+        margin-right: 26px;
+    }
+
+    span {
+        color: rgba(51, 26, 47, 0.5);
+
+        &:hover {
+            color: black;
+            transition: all 0.3s ease-in;
+        }
+    }
+}
+
+.link {
+    position: relative;
+}
+
+.link::before {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 2px;
+    top: 11px;
+    left: -17px;
+    background: rgba(51, 26, 47, 0.5);
+}

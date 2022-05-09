@@ -1,0 +1,19 @@
+<svg width="61" height="32" viewBox="0 0 61 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2_21" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="61" height="32">
+<ellipse cx="30.208" cy="16.0983" rx="30.208" ry="15.3025" fill="url(#paint0_linear_2_21)"/>
+</mask>
+<g mask="url(#mask0_2_21)">
+<ellipse cx="30.208" cy="16.0983" rx="30.208" ry="15.3025" fill="url(#paint1_linear_2_21)"/>
+<path d="M39.8129 20.3451V3.33634C39.8129 3.0762 39.828 2.7931 39.8582 2.48705C39.9186 2.181 39.9791 1.86729 40.0395 1.54594L12.3085 20.3451H39.8129ZM65.4824 20.3451V21.5387C65.4824 21.707 65.3766 21.8448 65.1652 21.9519C64.9839 22.0437 64.6819 22.0896 64.2589 22.0896H43.6191V31.4088H39.8129V22.0896H9.4992C9.04608 22.0896 8.69869 22.0437 8.45702 21.9519C8.21536 21.8448 8.04921 21.707 7.95859 21.5387L7.55078 20.4599L39.7676 -1.1167H43.6191V20.3451H65.4824Z" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2_21" x1="69.4784" y1="-8.38575" x2="52.1749" y2="43.0986" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF00AA"/>
+<stop offset="1" stop-color="#8912DE"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2_21" x1="69.4784" y1="-8.38575" x2="52.1749" y2="43.0986" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF00AA"/>
+<stop offset="1" stop-color="#8912DE"/>
+</linearGradient>
+</defs>
+</svg>
